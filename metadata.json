@@ -1,0 +1,6 @@
+{
+  "name": "Steary Books",
+  "description": "An animated spatial glassmorphic book discovery platform and interactive digital reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
